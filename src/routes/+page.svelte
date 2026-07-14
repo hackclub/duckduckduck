@@ -25,8 +25,8 @@
     <div class="w-full max-w-2xl px-4">
         <h2 class="font-bubblegum text-5xl text-white text-center pb-5 drop-shadow-[0_2px_4px_rgba(0,0,0,0.45)]" style="text-shadow: 0 0 12px rgba(0,0,0,0.35), 0 2px 3px rgba(0,0,0,0.5);">FAQs</h2>
         <details class="mb-3 bg-white rounded-lg shadow-[0_4px_0_rgba(0,0,0,0.15)] border-2 border-black/10 transition-shadow hover:shadow-[0_4px_10px_rgba(0,0,0,0.25)]">
-            <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">What is DuckDuckDuck?</summary>
-            <p class="font-bubblegum px-4 pb-4 text-black">DuckDuckDuck is a Hack Club YSWS program where you design a duck-related project, and we send you a rubber duck from HQ!</p>
+            <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">What is duckduckduck?</summary>
+            <p class="font-bubblegum px-4 pb-4 text-black">duckduckduck is a Hack Club YSWS program where you design a duck-related project, and we send you a rubber duck from HQ!</p>
         </details>
         <details class="mb-3 bg-white rounded-lg shadow-[0_4px_0_rgba(0,0,0,0.15)] border-2 border-black/10 transition-shadow hover:shadow-[0_4px_10px_rgba(0,0,0,0.25)]">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">What can I make?</summary>
@@ -37,12 +37,12 @@
             <p class="font-bubblegum px-4 pb-4 text-black">Hackatime is recommended, but not required. If you don't use Hackatime, please make sure you're keeping track of your time some other way!</p>
         </details>
         <details class="mb-3 bg-white rounded-lg shadow-[0_4px_0_rgba(0,0,0,0.15)] border-2 border-black/10 transition-shadow hover:shadow-[0_4px_10px_rgba(0,0,0,0.25)]">
-            <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">When does DuckDuckDuck end?</summary>
-            <p class="font-bubblegum px-4 pb-4 text-black">DuckDuckDuck ends Thursday, July 16th at noon EST (12:00 PM).</p>
+            <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">When does duckduckduck end?</summary>
+            <p class="font-bubblegum px-4 pb-4 text-black">duckduckduck ends Thursday, July 16th at noon EST (12:00 PM).</p>
         </details>
         <details class="mb-3 bg-white rounded-lg shadow-[0_4px_0_rgba(0,0,0,0.15)] border-2 border-black/10 transition-shadow hover:shadow-[0_4px_10px_rgba(0,0,0,0.25)]">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">Is this double dippable?</summary>
-            <p class="font-bubblegum px-4 pb-4 text-black">No, DuckDuckDuck cannot be double dipped with any other Hack Club programs.</p>
+            <p class="font-bubblegum px-4 pb-4 text-black">No, duckduckduck cannot be double dipped with any other Hack Club programs.</p>
         </details>
         <details class="mb-3 bg-white rounded-lg shadow-[0_4px_0_rgba(0,0,0,0.15)] border-2 border-black/10 transition-shadow hover:shadow-[0_4px_10px_rgba(0,0,0,0.25)]">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I've finished my project!</summary>
