@@ -14,7 +14,7 @@
     </h2>
     <div class="flex gap-25 mt-5">
         <button class="font-bubblegum bg-white text-black text-3xl py-6 px-18 rounded-lg transition-all cursor-pointer shadow-[0_6px_0_rgba(0,0,0,0.2)] hover:shadow-[0_3px_0_rgba(0,0,0,0.2)] hover:translate-y-[3px] active:shadow-none active:translate-y-[6px] border-2 border-black/10" on:click={() => document.getElementById('faq').scrollIntoView({ behavior: 'smooth' })}>FAQ</button>
-        <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="font-bubblegum bg-white text-black text-3xl py-6 px-18 rounded-lg transition-all shadow-[0_6px_0_rgba(0,0,0,0.2)] hover:shadow-[0_3px_0_rgba(0,0,0,0.2)] hover:translate-y-[3px] active:shadow-none active:translate-y-[6px] border-2 border-black/10">Submit!</a>
+        <a href="https://forms.hackclub.com/duckduckduck" target="_blank" rel="noopener noreferrer" class="font-bubblegum bg-white text-black text-3xl py-6 px-18 rounded-lg transition-all shadow-[0_6px_0_rgba(0,0,0,0.2)] hover:shadow-[0_3px_0_rgba(0,0,0,0.2)] hover:translate-y-[3px] active:shadow-none active:translate-y-[6px] border-2 border-black/10">Submit!</a>
     </div>
     <h2 class="font-bubblegum text-2xl pb-1 text-white text-center max-w-4xl px-4 drop-shadow-[0_2px_4px_rgba(0,0,0,0.45)] absolute bottom-4 left-0 right-0 mx-auto" style="text-shadow: 0 0 12px rgba(0,0,0,0.35), 0 2px 3px rgba(0,0,0,0.5);">
         A Hack Club YSWS program by @dld
@@ -46,7 +46,7 @@
         </details>
         <details class="mb-3 bg-white rounded-lg shadow-[0_4px_0_rgba(0,0,0,0.15)] border-2 border-black/10 transition-shadow hover:shadow-[0_4px_10px_rgba(0,0,0,0.25)]">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I've finished my project!</summary>
-            <p class="font-bubblegum px-4 pb-4 text-black">Great! It's time to <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">submit</a>!</p>
+            <p class="font-bubblegum px-4 pb-4 text-black">Great! It's time to <a href="https://forms.hackclub.com/duckduckduck" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">submit</a>!</p>
         </details>
         <details class="mb-3 bg-white rounded-lg shadow-[0_4px_0_rgba(0,0,0,0.15)] border-2 border-black/10 transition-shadow hover:shadow-[0_4px_10px_rgba(0,0,0,0.25)]">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I have some other questions!</summary>
