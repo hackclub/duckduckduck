@@ -54,3 +54,11 @@
         </details>
     </div>
 </div>
+
+<footer class="font-bubblegum text-white text-center pb-8 drop-shadow-[0_2px_4px_rgba(0,0,0,0.45)]" style="text-shadow: 0 0 12px rgba(0,0,0,0.35), 0 2px 3px rgba(0,0,0,0.5);">
+    <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="underline">Hack Club</a>
+    -
+    <a href="https://hackclub.com/privacy-and-terms" target="_blank" rel="noopener noreferrer" class="underline">Privacy</a>
+    -
+    <a href="https://forms.hackclub.com/bounty" target="_blank" rel="noopener noreferrer" class="underline">Bounty</a>
+</footer>
